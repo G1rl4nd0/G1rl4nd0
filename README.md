@@ -5,6 +5,8 @@
 
 ![G1RL4nd0 GitHub Status](https://github-readme-stats.vercel.app/api?username=G1RL4nd0&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
