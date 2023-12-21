@@ -3,9 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girlando-junior-5620b7208/)
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/girlando_y18)
 
-![G1RL4nd0 GitHub Status](https://github-readme-stats.vercel.app/api?username=G1RL4nd0&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![G1RL4nd0 GitHub Status](https://github-readme-stats.vercel.app/api?username=G1RL4nd0&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## Tecnologias que uso no meu dia
 
