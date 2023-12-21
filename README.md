@@ -3,9 +3,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girlando-junior-5620b7208/)
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/girlando_y18)
 
-![G1RL4nd0 GitHub Status](https://github-readme-stats.vercel.app/api?username=G1RL4nd0&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![G1RL4nd0 GitHub Status](https://github-readme-stats.vercel.app/api?username=G1RL4nd0&show_icons=true&theme=tokyonight) 
 
 ## Tecnologias que uso no meu dia
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <div style="display: inline_block"><br/>
   <img align="center" alt=html5 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -17,3 +19,5 @@
   <img align="center" alt=azuredevops src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
+
+
